@@ -47,6 +47,10 @@ Here are some public repos where I'm applying what I’ve learned:
 
 - [🔗 CS50 Python Problems](https://github.com/luis-datavspace/CS50-Problems)  
   Solutions to Harvard's Python course problems, written with what I’ve learned.
+  
+- [🔗 RPA Billing Automation](https://github.com/luis-datavspace/rpa-billing-automation)
+  Billing validation bot using Web Scraping and conditional logic to optimize manual administrative processes.
+  
 
 > 📌 *More coming soon: I'm working on small tools and automation scripts as I learn.*
 
