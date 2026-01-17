@@ -33,7 +33,7 @@ Although I’m just getting started, I’m committed to **growing consistently**
 
 **Engineering in Software**  
 *Universidad Autónoma de Nuevo León – Facultad de Ingeniería Mecánica y Eléctrica*  
-`2023 – 2025 (in progress)`
+`2023 – 2028 (in progress)`
 
 **Preparatoria No. 16 UANL**  
 *San Nicolás de los Garza, N.L.*  
