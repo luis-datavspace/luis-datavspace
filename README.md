@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Luis 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student</b> · Python & SQL Learner · Excel & Data Enthusiast  
-  <br>🚀 Building projects, learning fast, and growing step by step.
+  <b>Software Engineering Student</b> · Python & SQL Learner · Data Enthusiast  
 </p>
 
 ---
@@ -14,9 +13,6 @@ I'm currently studying **Software Engineering** at UANL, with a strong interest 
 - 🐍 Python programming  
 - 📊 Data analysis and task automation  
 - 📈 Excel + SQL for business intelligence  
-- ⚙️ Building practical, efficient solutions  
-
-Although I’m just getting started, I’m committed to **growing consistently** and becoming a highly skilled developer focused on real-world impact.
 
 ---
 
@@ -24,7 +20,7 @@ Although I’m just getting started, I’m committed to **growing consistently**
 
 - Python (basics, functions, conditionals, loops)  
 - SQL (currently learning via courses and practice)  
-- Excel (intermediate–advanced, certified)  
+- Excel (intermediate–advanced)  
 - Git & GitHub for version control  
 
 ---
@@ -51,8 +47,6 @@ Here are some public repos where I'm applying what I’ve learned:
 - [🔗 RPA Billing Automation](https://github.com/luis-datavspace/rpa-billing-automation).            
   Billing validation bot using Web Scraping and conditional logic to optimize manual administrative processes.
   
-
-> 📌 *More coming soon: I'm working on small tools and automation scripts as I learn.*
 
 ---
 
